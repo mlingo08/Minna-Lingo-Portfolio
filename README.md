@@ -11,25 +11,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Minna Lingo and I am a first year Entertainment Industry Management student here at Heinz College. I am originally from Orlando, Florida, and completed my undergraduate at the University of Florida studying English and Film Studies. I love film and television and hope to one day work in development or acquisitions! In my freetime, I like to read and watch movies. I am also obsessed with my cats, whom I spend way too much time talking about!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I come from a more creative background focused on writing and shooting films. Now at Heinz College, I am eager to expand my knowledge into the technical and business side of the industry, which is why I wanted to take this course. The entertainment industry is reliant on data and figuring out what that data tells you. Therefore, I hope to learn: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. How to make clear and visually interesting data models
+2. How to know which model is right for a certain situation
+3. And how to use data to predict future trends
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
