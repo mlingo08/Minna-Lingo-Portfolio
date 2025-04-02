@@ -28,38 +28,40 @@ For this visualization, I refocused the title on "Youtube has the most users com
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+I began my testing process in class when paired with two other students. I was able to discuss my original design with a MISM student and a MSPPM-DA student. This allowed me to discuss my sketches and plan with two people of different backgrounds.
 
-Questions to ask (modify these for your own interviews): 
+Questions that I asked in my surveys:
 
-- Can you tell me what you think this is?
+- Can you tell me what you think this graph is showing?
 
-- Can you describe to me what this is telling you?
+- Who do you think the intended audience is for this data design?
 
-- Is there anything you find surprising or confusing?
+- Is there anything you would immediately change with my sketch?
 
-- Who do you think is the intended audience for this?
+- Would another chart with demographic information add to this research in any way?
 
-- Is there anything you would change or do differently?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+For the discussion of these results, the MISM student will be student 1 and MSPPM will be student 2. 
 
+The results from the survey showed that my sketch was effective, but not particularly interesting. Student 1 noted that the graph was easy to read and follow, as the design was simple and clear. This student also said that it didn't seem like I had made enough changes to my original source. They said that the intended audience was most likely US based social media users, which was correct. For the demographic question, this student was interested in how the data could be compared to ages of users to tell a different story.
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Student 2 studies public policy, so they were less concerned about the data and design of the graphic, and more concerned about the story the graph was showing. They felt like I should refocus my research on a story about demographics instead of just generally showing platform usage. 
+
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+After speaking with the students, I knew what I wanted to create for my final solution. I decided that a grouped bar graph would be an effective way to tell my story. I would take the top 5 social media platforms in 2024 and show how usage differed amongst different age groups. This data was given alongside other demographic information on the original data source. The demographic information was collected in 2024, which is why I took the top 5 apps in 2024, as well. 
+
+Here is a very rough sketch of my initial idea for the final solution:
+
+![IMG_1732](https://github.com/user-attachments/assets/603d3560-95bf-44d0-9220-92098dc8a832)
+
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+My final visualization is shown below. 
 
 <div class='tableauPlaceholder' id='viz1743564902660' style='position: relative'><noscript><a href='#'><img alt='Amongst the top 5 Social Media Platforms, Youtube leads for all agesSource: https:&#47;&#47;www.pewresearch.org&#47;internet&#47;fact-sheet&#47;social-media&#47;?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaAges&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SocialMediaAges&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaAges&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -69,6 +71,8 @@ _Include and describe your final solution here. It's also a good idea to summari
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+I was able to successfully create a new data visualization focusing on age groups and their usage of social media. I organized the bars from most to least popular 
 
 ## References
 
