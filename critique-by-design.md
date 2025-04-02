@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+Critique and Redesign
+
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
@@ -12,9 +12,19 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+When I first saw this graphic, I was interested in redesigning it because I felt like it was valuable data not being used in the correct way. Because I am studying entertainment management, I am particularly interested in social media usage by populations. The color usage in the graph is effective, but can be hard to distinguish, especially at the bottom where it’s too faint. The title is clear and simple, which works well. My main issue is the change in survey mode in 2022, which makes the data inconsistent and hard to compare. I also wish we had data for each application every year to make the graphic more reliable. That's why I rated completeness as a 4. Based on the graphic and Pew Research's info, the tool is useful for adult social media users in the U.S., which I rated at 8 for usefulness. The graphic clearly shows YouTube as the most used app, but I don't think it encourages deeper thinking. Currently, the research does not inspire further thought processes on social media, which I would like to eventually accomplish. 
+
+At this early point in my redesign process, I’d either remove or separate the post-2022 data, brighten the colors, adjust the y-axis to increase by 10s, remove platforms with minimal data like Nextdoor and BeReal, and widen the graph for clarity. The current graph isn’t terrible, but it could be much clearer and informative with some changes.
 
 ## Step three: Sketch a solution
+
+My first sketch was a simple attempt at using the same general shape and data from the original research and making small changes. 
+
+![IMG_1731](https://github.com/user-attachments/assets/3d841c41-fc19-4d94-8c6d-a1c22dd6c58f)
+
+For this visualization, I refocused the title on "Youtube has the most users compared to other social media platforms." I analyzed four of the top social media platforms: Youtube, Facebook, Instagram and X. By tracking these four common apps, I was able to show how much of an advantage Youtube has over other platforms. I also focused the data on only the first method of surveying, since I have issues with the change in methodology after 2022. I used bright colors frequently attributed to these platforms to make the survey easy to follow. 
+
 
 ## Step four: Test the solution
 
