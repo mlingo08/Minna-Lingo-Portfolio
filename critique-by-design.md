@@ -61,8 +61,8 @@ _Include and describe your final solution here. It's also a good idea to summari
 </script>
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Social Media Fact Sheet. (2024, November 13). Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/
+
+
 
