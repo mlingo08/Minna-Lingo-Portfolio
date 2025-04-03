@@ -69,6 +69,7 @@ The new title is "Amongst the top 5 social media platforms, Youtube leads for al
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 This activity allowed me to take a data source that was not ineffective and use it to tell a more compelling story. The original work was not invaluable, but it was simply listing the results and not leading the audience towards a certain opinion. 
 
 ## References
