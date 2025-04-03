@@ -6,7 +6,7 @@
 - This repository: https://github.com/mlingo08/Minna-Lingo-Portfolio
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my assignments and examples will live. 
 
 # About me
 Hello! My name is Minna Lingo and I am a first year Entertainment Industry Management student here at Heinz College. I am originally from Orlando, Florida, and completed my undergraduate at the University of Florida studying English and Film Studies. I love film and television and hope to one day work in development or acquisitions! In my freetime, I like to read and watch movies. I am also obsessed with my cats, whom I spend way too much time talking about!
