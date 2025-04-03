@@ -58,6 +58,8 @@ Here is a very rough sketch of my initial idea for the final solution:
 
 My final visualization is shown below. I organized the bars from most to least popular overall. The colors were selected to stand out and represent the logo design of each application. The story I told was that no matter the age group, Youtube was the most used social media platform. I think that my redesign is more appealing visually, and it adds a layer to the original data. With this new solution, we can see the most popular social media platforms and how the usage differs amongst ages. 
 
+The new title is "Amongst the top 5 social media platforms, Youtube leads for all ages." This is a simple title that helps to tell the story. 
+
 <div class='tableauPlaceholder' id='viz1743564902660' style='position: relative'><noscript><a href='#'><img alt='Amongst the top 5 Social Media Platforms, Youtube leads for all agesSource: https:&#47;&#47;www.pewresearch.org&#47;internet&#47;fact-sheet&#47;social-media&#47;?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaAges&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SocialMediaAges&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaAges&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1743564902660');                    
@@ -66,6 +68,8 @@ My final visualization is shown below. I organized the bars from most to least p
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+This activity allowed me to take a data source that was not ineffective and use it to tell a more compelling story. The original work was not invaluable, but it was simply listing the results and not leading the audience towards a certain opinion. 
 
 ## References
 
