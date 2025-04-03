@@ -70,7 +70,7 @@ The new title is "Amongst the top 5 social media platforms, Youtube leads for al
 </script>
 
 
-This activity allowed me to take a data source that was not ineffective and use it to tell a more compelling story. The original work was not invaluable, but it was simply listing the results and not leading the audience towards a certain opinion. 
+This activity allowed me to take a data source that was not ineffective and use it to tell a more compelling story. The original work was not invaluable, but it was simply listing the results and not leading the audience towards a certain opinion. With the new solution, research could be done to figure out why certain age groups prefer certain platforms. This new design asks more questions than the original design. 
 
 ## References
 
