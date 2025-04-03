@@ -2,11 +2,6 @@
 
 Critique and Redesign
 
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
 ## Step one: the visualization
 
 https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
@@ -61,7 +56,7 @@ Here is a very rough sketch of my initial idea for the final solution:
 
 ## Step five: build the solution
 
-My final visualization is shown below. 
+My final visualization is shown below. I organized the bars from most to least popular overall. The colors were selected to stand out and represent the logo design of each application. The story I told was that no matter the age group, Youtube was the most used social media platform. I think that my redesign is more appealing visually, and it adds a layer to the original data. With this new solution, we can see the most popular social media platforms and how the usage differs amongst ages. 
 
 <div class='tableauPlaceholder' id='viz1743564902660' style='position: relative'><noscript><a href='#'><img alt='Amongst the top 5 Social Media Platforms, Youtube leads for all agesSource: https:&#47;&#47;www.pewresearch.org&#47;internet&#47;fact-sheet&#47;social-media&#47;?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaAges&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SocialMediaAges&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaAges&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -71,8 +66,6 @@ My final visualization is shown below.
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-I was able to successfully create a new data visualization focusing on age groups and their usage of social media. I organized the bars from most to least popular 
 
 ## References
 
