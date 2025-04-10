@@ -1,21 +1,48 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+
+# Summary
+ 
+In this project, I will be using data to explore the beneficial relationship between Broadway and theatrical releases. After the release of the musical film "Wicked," the film industry has placed an added focus on the financial and cultural success of film musicals. The story for this will look at the success of musicals as theatrical releases. 
+
+I'll begin by discussing some of the recent theatrical successes. Then, I will look into the financial success of musicals in theaters and on Broadway. Next, I will break down the critical success of musical films, as they frequently have the potential of earning award recognition. I will also address the financial power of releasing recordings of musicals, which was seen successfully with the release of "Hamilton" on Disney+. Through data visualizations, I hope to end with a message to the audience encouraging more musical film productions.
+
+The audience for this project will be the film studios and the Broadway community. This project will encourage growth and investment into these productions. 
+
+As a reader, I want film and musical audiences to understand the value of musical films so that I can encourage the growth and investment of this relationship. I can do this by providing data to support the financial and critical success of this story. 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Logline: Musical films are a financial and critical success for studios and should be heavily invested in for years to come. 
 
-Text here...
+Setup: Introduce some of the recent musical films from the past decade. 
+
+Rising Action: Highlight the financial and critical acclaim of these projects. 
+
+We can see strong box office data to prove the benefit of these films. Include the IMDB ratings of these projects as well. 
+
+Climax: Explore the financial, critical and cultural success of "Wicked." Discuss the success of recorded releases of on-stage productions (seen with "Hamilton," and now with "Merrily We Roll Along." 
+
+Place emphasis on the dual-nature of this success, as the box-office wins are also evident in the corresponding Broadway/West End productions. 
+
+Conflict: Explore the negative reviews or perspectives about musical films.
+
+In this section, I will look into the negative feedback from some films, as many audiences find that some works do not translate as well to the big screen. Also consider the opinion that musical films take away sales from stage productions. 
+
+Resolution: 
+
+To finish our story, I will address the future of musical films and all the success that is soon to come. 
+
+Call to Action:
+
+Discuss the importance of supporting theaters and entertainment at all levels. Encourage production of musicals both on stage and on screen. Focus on employing actors and directors from the stage to keep that connection present in film musicals. 
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
