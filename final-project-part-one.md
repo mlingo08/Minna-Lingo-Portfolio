@@ -22,7 +22,7 @@ Rising Action: Highlight the financial and critical acclaim of these projects.
 
 We can see strong box office data to prove the benefit of these films. Include the IMDB ratings of these projects as well. 
 
-Climax: Explore the financial, critical and cultural success of "Wicked." Discuss the success of recorded releases of on-stage productions (seen with "Hamilton," and now with "Merrily We Roll Along." 
+Climax: Explore the financial, critical and cultural success of "Wicked." Discuss the success of recorded releases of on-stage productions (seen with "Hamilton," and now with "Merrily We Roll Along.")
 
 Place emphasis on the dual-nature of this success, as the box-office wins are also evident in the corresponding Broadway/West End productions. 
 
