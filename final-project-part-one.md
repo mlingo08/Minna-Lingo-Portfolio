@@ -57,9 +57,11 @@ Discuss the importance of supporting theaters and entertainment at all levels. E
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|  Playbill Weekly Grosses    |  https://playbill.com/grosses?week=2024-11-10   |   Weekly summary of broadway data          |
+|   Broadway World Grosses   |  https://www.broadwayworld.com/grosses.cfm   |   Weekly summary of broadway data           |
+|   Tableau Public Stage to Screen   |   https://public.tableau.com/app/profile/kevin.wee/viz/StagetoScreenIronVizBroadwayMusicalsTurnedintoMovies/Infographic  |   Public data on success of musical films          |
+|  Tableau Movie Musicals    |https://public.tableau.com/app/profile/kimberly.furdell/viz/100YearsofMovieMusicals/100YearsofMusicals   |   Public data on history of musical films          | 
+|   Box Office Data   |https://www.the-numbers.com/movie/Miserables-Les-(2012)#tab=summary  |     Box office data for all films        |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
@@ -69,5 +71,4 @@ Text here...
 ## References
 _List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
