@@ -53,7 +53,11 @@ Discuss the importance of supporting theaters and entertainment at all levels. E
 # The data
 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+At this point in the data collection process, I have found a sufficient pool of data for this storyline. Luckily I am not working with private data, so this information was not too difficult to find. I find the most value in the Playbill and Broadway World grosses, as this information can help me keep track of shows and how they performed at certain points in time. Similarly, I am using the box office data to research certain musical films and tracking their domestic and international revenues.
+
+The Tableau Public resources are beneficial to me because they provide me with information about the history of musical films. They also hold valuable data tracking the critical success of these works. I am using these resources to track the cultural and critical side of this story, while using the other resources to show the financial side. 
+
+I am still exploring to see if I can find more data at this point in time, but if I don't, the resources I do have should be enough for me to successfully tell my story. 
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -64,11 +68,8 @@ Discuss the importance of supporting theaters and entertainment at all levels. E
 |   Box Office Data   |https://www.the-numbers.com/movie/Miserables-Les-(2012)#tab=summary  |     Box office data for all films        |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I plan on using Shorthand as the central platform for this project, while also using Tableau for assistance with data visualizations. I am feeling fairly comfortable with using Tableau for data, so I will mostly rely on this instead of Datawrapper. 
 
-## References
-_List any references you used here._
 
 
