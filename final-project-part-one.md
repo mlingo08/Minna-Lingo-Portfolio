@@ -40,14 +40,18 @@ Discuss the importance of supporting theaters and entertainment at all levels. E
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
+![IMG_1740 1](https://github.com/user-attachments/assets/b42755dc-0599-4a10-bd37-fe039102ad30)
+
+![IMG_1742 2](https://github.com/user-attachments/assets/d4ac462d-69ed-4df2-a958-edcb904014c4)
+
+![IMG_1741 3](https://github.com/user-attachments/assets/fb0f6f72-f979-411a-a286-8a08569df455)
+
+![IMG_1743 4](https://github.com/user-attachments/assets/572cd3f4-6a98-411d-972c-1a95a83fa4ff)
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
