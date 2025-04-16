@@ -67,18 +67,14 @@ Interview 3: Female, early 20s, MEIM student, focus on talent management and cas
 | See if the story flows properly and makes sense to the audience   |   What is your initial reaction to the storyline and how it develops throughout?               |
 
 
-Text here!
 
 ## Interview Findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Did the call to action feel like a satisfying end to the story?  |  I don't think that it stands out very much. It is fine but does not provide much to the story.           |   I don't know too much about this topic but I think that the ending makes sense and wraps things up nicely.          |   I think it's a good start, but I would like to see something about encouraging the audience to see more musicals and push their own expectations of what a musical can be.          |
+| Do you have any ideas for how to make this story stand out?    |  I think you could add some of your own opinions to the story, especially the beginning.                             | I also think this is a cool topic. You could add a data visualization on the global success of these films.         |   You could make this your own by adding data on certain genres and how they succeed.          |
+| What is your initial reaction to the storyline and how it develops throughout?       | I think this is a good idea and everything flows in a very effective way.                               |  I am not as familiar with this information, so this story is different and fun for me.           |  I am aware of a lot of this data already since I study this, but I think you provide a really helpful and effective overview of the topic.           |
 
 
 # Identified Changes for Part III
