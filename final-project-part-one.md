@@ -10,7 +10,7 @@ I'll begin by discussing some of the recent theatrical successes. Then, I will l
 
 The audience for this project will be the film studios and the Broadway community. This project will encourage growth and investment into these productions. 
 
-As a reader, I want film and musical audiences to understand the value of musical films so that I can encourage the growth and investment of this relationship. I can do this by providing data to support the financial and critical success of this story. 
+As an entertainment management student, I want film and musical audiences to understand the value of musical films so that I can encourage the growth and investment of this relationship. I can do this by providing data to support the financial and critical success of this story. 
 
 # Outline
 
