@@ -47,7 +47,6 @@ At this point I am sticking with my original call to action. However, I am not c
 # User Research 
 
 ## Target Audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 General Audience: The general audience for this story would be the people in our classroom who will be viewing the presentation. These individuals are people in graduate school who have an interest in data and how it impacts the decisions we make in our respective fields. Although the general audience may not be in the entertainment industry, it is made up of young people. These people are most likely casual consumers of entertainment. I hope that this audience will find the data interesting, as it influences the type of media they consume. 
 Industry Audience: This audience would be the target for this story, as I am hoping to reach those working in film development/acquisitions. These are the people who make decisions about which works make it to the big screen, so this data would be beneficial for them as it tells the story of why musical films are so important at this point in time. 
@@ -59,15 +58,13 @@ Interview 2: Male, early 20s, MISM student
 Interview 3: Female, early 20s, MEIM student, focus on talent management and casting
 
 ## Interview Script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Continue to develop and strengthen the call to action     |    Did the call to action feel like a satisfying end to the story?              |
+| Determine how the story could be made more interesting     |       Do you have any ideas for how to make this story stand out?           |
+| See if the story flows properly and makes sense to the audience   |   What is your initial reaction to the storyline and how it develops throughout?               |
 
 
 Text here!
