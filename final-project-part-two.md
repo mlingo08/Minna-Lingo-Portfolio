@@ -49,7 +49,14 @@ At this point I am sticking with my original call to action. However, I am not c
 ## Target Audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+General Audience: The general audience for this story would be the people in our classroom who will be viewing the presentation. These individuals are people in graduate school who have an interest in data and how it impacts the decisions we make in our respective fields. Although the general audience may not be in the entertainment industry, it is made up of young people. These people are most likely casual consumers of entertainment. I hope that this audience will find the data interesting, as it influences the type of media they consume. 
+Industry Audience: This audience would be the target for this story, as I am hoping to reach those working in film development/acquisitions. These are the people who make decisions about which works make it to the big screen, so this data would be beneficial for them as it tells the story of why musical films are so important at this point in time. 
+
+With these two audiences as the target for this story, I aimed to interview individuals from all sorts of backgrounds. I wanted to make sure I was getting feedback from people with technical and creative interests, as this would provide the most relevant recommendation. I cannot interview industry professionals, but I made an effort to interview someone in the MEIM program who has a lot of background knowledge. 
+
+Interview 1: Female, early 20s, MSPPM-DA student, casual movie viewer
+Interview 2: Male, early 20s, MISM student
+Interview 3: Female, early 20s, MEIM student, focus on talent management and casting
 
 ## Interview Script
 > List the goals from your research, and the questions you intend to ask. 
