@@ -77,25 +77,9 @@ Interview 3: Female, early 20s, MEIM student, focus on talent management and cas
 | What is your initial reaction to the storyline and how it develops throughout?       | I think this is a good idea and everything flows in a very effective way.                               |  I am not as familiar with this information, so this story is different and fun for me.           |  I am aware of a lot of this data already since I study this, but I think you provide a really helpful and effective overview of the topic.           |
 
 
+
 # Identified Changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-
-## References
-_List any references you used here._
+to do list. feasibility vs. value of the items. 
 
 
