@@ -77,10 +77,16 @@ Interview 3: Female, early 20s, MEIM student, focus on talent management and cas
 | What is your initial reaction to the storyline and how it develops throughout?       | I think this is a good idea and everything flows in a very effective way.                               |  I am not as familiar with this information, so this story is different and fun for me.           |  I am aware of a lot of this data already since I study this, but I think you provide a really helpful and effective overview of the topic.           |
 
 After completing the interviews and talking with individuals from different backgrounds, I feel like I received helpful feedback and opinions. The in-class interviews I conducted were the most helpful for me, because these people are not in my program and do not have a vested interest in entertainment. Therefore, their excitement about my topic confirmed the value of this story. All of the interviewees said that the story made sense and interested them. One of my goals was to see if the story flowed and made sense to audiences. This goal was met with my questioning, as the responses confirmed the story. Another goal was to see how the story could be made more interesting. I was pleasantly surprised with this feedback, as the ideas were helpful for me. I want to figure out how to balance the feasibility and the value of the suggestions, as time is limited and I want to keep the scope small for this timeline. Interview 1 said I could add some more of my own personal thoughts to the story, which I am reluctant to do. I think that even if I do not add my own opinions, my perspective as someone in the industry will shine through. Another suggestion was to incorporate the global market for musical films. Although this is very interesting to me, I do not think it is very feasible with the time I have. I do have a visualization comparing international vs. domestic box office data, but this is the most I will be able to explore with the time I have. 
+
 From the feedback, I think the main area of improvement is how I tell the story for the general audience. The interviews told me that my message is geared towards people in my industry, which the majority of my audience will not be. I need to tailor the message of the story to better engage the general audience. The people I spoke to were very interested in my topic and thought it told a cool story, but I want to adjust the call to action. 
 
 # Identified Changes for Part III
 
-to do list. feasibility vs. value of the items. 
+Using the feedback from my interviews, I have created a to-do list. I ordered these ideas from most to least important or necessary for the success of this story. I created this list with a focus on feasibility compared to the value of the idea. I do not want to add too much to the story at this point in the process. 
+
+To-Do List
+1. Finalize data visualizations: domestic v. international box office data, history of musical films, critical acclaim of musical films at award ceremonies, musical box office data before and after film version's release, musical vs. film album recording sales, and genre based 
+
+
 
 
