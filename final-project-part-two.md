@@ -2,6 +2,8 @@
 
 # Wireframes / Storyboards
 
+[Shorthand Draft](https://preview.shorthand.com/2mxZ2uaMBifQnQWX)
+
 Original Exposition: Introduce some of the recent musical films from the past decade.
 
 **Updated Exposition** : 
