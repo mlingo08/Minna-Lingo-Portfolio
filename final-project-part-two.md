@@ -85,7 +85,12 @@ From the feedback, I think the main area of improvement is how I tell the story 
 Using the feedback from my interviews, I have created a to-do list. I ordered these ideas from most to least important or necessary for the success of this story. I created this list with a focus on feasibility compared to the value of the idea. I do not want to add too much to the story at this point in the process. 
 
 To-Do List
-1. Finalize data visualizations: domestic v. international box office data, history of musical films, critical acclaim of musical films at award ceremonies, musical box office data before and after film version's release, musical vs. film album recording sales, and genre based 
+1. Finalize data visualizations: domestic v. international box office data, history of musical films, critical acclaim of musical films at award ceremonies, musical box office data before and after film version's release, musical vs. film album recording sales, and genre based data tracking
+2. Reinforce call to action: This should not be too difficult to complete and will not take too much time. I just need to combine the feedback from above with my own finalized story to create an effective ending message
+3. Adding more data: Incorporate genre-based statistics for musical films in the box office
+4. Rework official title of the story: create a more interesting title to engage audience. This should not be very difficult and will not be too time-consuming
+
+I think that this is a sufficient list of tasks for me to complete before part 3. Once I make these changes and finalize all the details of my shorthand, the story should be much more effective for audiences of all backgrounds. 
 
 
 
